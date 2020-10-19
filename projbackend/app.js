@@ -1,4 +1,4 @@
-//Server related
+
 require('dotenv').config()     //Dotenv is a simple way to allow you to create secret keys that your application needs to function and keep them from going public.
 const mongoose = require('mongoose');
 const express = require("express");
